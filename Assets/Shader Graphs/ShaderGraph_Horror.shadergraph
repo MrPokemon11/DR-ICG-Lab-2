@@ -22,7 +22,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "37e43705f19d4f9f83da8f6fcd9770fa"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -125,6 +129,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "37e43705f19d4f9f83da8f6fcd9770fa",
+    "m_Title": "Note",
+    "m_Content": "Didn't actually use the graph for this one lol.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -264.7747802734375,
+        "y": 29.41940689086914,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.Rendering.Fullscreen.ShaderGraph.FullscreenData",
     "m_ObjectId": "3ced242f722c4bdea44e1b5749ccc244",
     "m_Version": 0,
@@ -187,10 +211,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1337.0001220703125,
-            "y": 159.0,
-            "width": 208.0,
-            "height": 312.0000305175781
+            "x": -371.9999694824219,
+            "y": 200.00001525878907,
+            "width": 207.99990844726563,
+            "height": 312.0
         }
     },
     "m_Slots": [
